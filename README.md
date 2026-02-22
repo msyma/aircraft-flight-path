@@ -12,6 +12,7 @@ The video was captured by a camera on the plane and recorded on VR goggles durin
   <img src="screens/screen_high.png" width="333" />
   <img src="screens/screen_mid.png" width="333" />
   <img src="screens/screen_low.png" width="333" />
+  <img src="screens/plot.png" width="333" />
 </p>
 
 ![OCR output](screens/map_north.png)
